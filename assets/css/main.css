@@ -3847,31 +3847,10 @@
 
 /* Chapter Design*/
 
-#chapter header {
-	font-family: "Roboto Slab", serif;
-	font-size: 2em;
-	font-weight: 400;
-	letter-spacing: 0.075em;
-	margin-top: -0.5em;
-	text-transform: uppercase;
-}
-
-#chapter header h1 {
-	font-family: "Roboto Slab", serif;
-	font-size: 2em;
-	font-weight: 400;
-	letter-spacing: 0.075em;
-	margin-top: -0.5em;
-	text-transform: uppercase;
-}
-
-#chapter header p {
-	font-family: "Roboto Slab", serif;
-	font-size: 2em;
-	font-weight: 400;
-	letter-spacing: 0.075em;
-	margin-top: -0.5em;
-	text-transform: uppercase;
+#chapter p {
+	text-indent: 30px;
+	line-height: 150%;
+	margin: 0em;
 }
 
 /* Banner */
